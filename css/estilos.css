@@ -50,3 +50,10 @@ body
     background: white;
     padding: 1em;
 }
+#footer
+{
+    background: gray;
+    color: white;
+    font: Arial;
+    padding: 10px;
+}
